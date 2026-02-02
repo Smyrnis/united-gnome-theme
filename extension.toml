@@ -1,7 +1,7 @@
-id = "ubuntu-zed"
-name = "United Ubuntu"
+id = "united-gnome"
+name = "United Gnome"
 version = "0.1.0"
 schema_version = 1
 authors = ["Smyrnis Giannis <smyrnisgiannis@gmail.com>"]
 description = "Color theme designed to match the popular Ubuntu theme."
-repository = "https://github.com/Smyrnis/zed-united-gnome"
+repository = "https://github.com/Smyrnis/united-gnome-theme"
