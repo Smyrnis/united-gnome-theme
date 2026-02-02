@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Smyrnis/zed-united-gnome?style=flat-"> 
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Smyrnis/zed-united-gnome?style=flat-"> 
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/Smyrnis/zed-united-gnome?style=flat-"> 
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Smyrnis/united-gnome-theme?style=flat-"> 
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/Smyrnis/united-gnome-theme?style=flat-"> 
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/Smyrnis/united-gnome-theme?style=flat-"> 
 </p>
 
 
