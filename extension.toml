@@ -1,7 +1,7 @@
 id = "united-gnome"
 name = "United Gnome"
-version = "0.1.0"
+version = "0.3.1"
 schema_version = 1
 authors = ["Smyrnis Giannis <smyrnisgiannis@gmail.com>"]
-description = "Color theme designed to match the popular Ubuntu theme."
+description = "Color themes based on gnome"
 repository = "https://github.com/Smyrnis/united-gnome-theme"

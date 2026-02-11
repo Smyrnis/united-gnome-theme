@@ -147,18 +147,18 @@
         "syntax": {
           "attribute": {
             "color": "#96cbfe",
-            "font_style": "italic"
+            "font_style": "normal"
           },
           "boolean": {
             "color": "#e9c062"
           },
           "comment": {
             "color": "#6c6c66",
-            "font_style": "italic"
+            "font_style": "normal"
           },
           "comment.doc": {
             "color": "#6c6c66",
-            "font_style": "italic"
+            "font_style": "normal"
           },
           "constant": {
             "color": "#e9c062"
@@ -195,7 +195,7 @@
           },
           "link_text": {
             "color": "#96cbfe",
-            "font_style": "italic"
+            "font_style": "normal"
           },
           "link_uri": {
             "color": "#c6c5fe",
@@ -209,7 +209,7 @@
           },
           "predictive": {
             "color": "#999999",
-            "font_style": "italic"
+            "font_style": "normal"
           },
           "preproc": {
             "color": "#ff73fd"
@@ -268,7 +268,7 @@
           },
           "variable.special": {
             "color": "#ff6c60",
-            "font_style": "italic"
+            "font_style": "normal"
           },
           "variant": {
             "color": "#ffffb6"
