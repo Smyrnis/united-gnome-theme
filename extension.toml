@@ -1,6 +1,6 @@
 id = "united-gnome"
 name = "United Gnome"
-version = "0.3.2"
+version = "0.3.3"
 schema_version = 1
 authors = ["Smyrnis Giannis <smyrnisgiannis@gmail.com>"]
 description = "Color themes based on gnome"
