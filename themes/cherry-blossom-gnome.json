@@ -170,7 +170,7 @@
           },
           "emphasis": {
             "color": "#B77171",
-            "font_style": "italic"
+            "font_style": "normal"
           },
           "emphasis.strong": {
             "color": "#B77171",
@@ -198,7 +198,7 @@
           },
           "link_uri": {
             "color": "#B8D6E5",
-            "font_style": "italic"
+            "font_style": "normal"
           },
           "number": {
             "color": "#CBCBCB"
