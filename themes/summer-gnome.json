@@ -27,7 +27,7 @@
                 "drop_target.background": "#5aaee620",
 
                 "ghost_element.background": "#00000000",
-                "ghost_element.hover": "#00000008",
+                "ghost_element.hover": "#212D4524",
                 "ghost_element.active": "#5aaee620",
                 "ghost_element.selected": "#5aaee630",
                 "ghost_element.disabled": "#00000000",
@@ -38,21 +38,21 @@
                 "text.disabled": "#aab4c3",
                 "text.accent": "#5aaee6",
 
-                "icon": "#3a4656",
+                "icon": "#000000FF",
                 "icon.muted": "#8a94a6",
-                "icon.disabled": "#aab4c3",
+                "icon.disabled": "#737373FF",
                 "icon.placeholder": "#8a94a6",
-                "icon.accent": "#5aaee6",
+                "icon.accent": "#0077FFFF",
 
-                "status_bar.background": "#e6ebf2",
-                "title_bar.background": "#eef2f7",
-                "title_bar.inactive_background": "#eef2f7",
+                "status_bar.background": "#CEDBF2FF",
+                "title_bar.background": "#CEDBF2FF",
+                "title_bar.inactive_background": "#DFE9F5FF",
                 "toolbar.background": "#f8fafc",
                 "tab_bar.background": "#eef2f7",
                 "tab.inactive_background": "#e6ebf2",
                 "tab.active_background": "#f8fafc",
 
-                "search.match_background": "#5aaee640",
+                "search.match_background": "#1592D66E",
 
                 "panel.background": "#eef2f7",
                 "panel.focused_border": "#5aaee6",
@@ -70,7 +70,7 @@
                 "editor.subheader.background": "#eef2f7",
                 "editor.active_line.background": "#00000005",
                 "editor.highlighted_line.background": "#5aaee615",
-                "editor.line_number": "#aab4c3",
+                "editor.line_number": "#4A4E52FF",
                 "editor.active_line_number": "#5aaee6",
                 "editor.invisible": "#d6dbe4",
                 "editor.wrap_guide": "#d6dbe4",
@@ -129,7 +129,7 @@
                 "deleted.background": "#fdecec",
                 "deleted.border": "#e25555",
 
-                "error": "#e25555",
+                "error": "#B00505FF",
                 "error.background": "#fdecec",
                 "error.border": "#e25555",
 
@@ -141,7 +141,7 @@
                 "info.background": "#eaf4fb",
                 "info.border": "#5aaee6",
 
-                "modified": "#a07db3",
+                "modified": "#A956D6FF",
                 "modified.background": "#f3eef8",
                 "modified.border": "#a07db3",
 
@@ -149,9 +149,16 @@
                 "success.background": "#e6f7f5",
                 "success.border": "#2fb3a8",
 
-                "warning": "#7b88a8",
-                "warning.background": "#eef2f7",
+                "warning": "#B59E07FF",
+                "warning.background": "#E0CB1230",
                 "warning.border": "#7b88a8",
+
+                "version_control.modified": "#3300FFFF",
+                "version_control.added": "#58A813FF",
+                "version_control.deleted": "#B81111FF",
+                "version_control.renamed": "#2E00BAFF",
+                "version_control.conflict": "#D67500FF",
+                "version_control.ignored": "#595959FF",
 
                 "players": [
                     {
@@ -162,14 +169,18 @@
                 ],
 
                 "syntax": {
-                    "keyword": { "color": "#5aaee6" },
-                    "function": { "color": "#3f8fc1" },
-                    "string": { "color": "#2fb3a8" },
-                    "number": { "color": "#7b88a8" },
-                    "comment": { "color": "#8a94a6" },
-                    "type": { "color": "#a07db3" },
-                    "variable": { "color": "#1c2430" },
-                    "operator": { "color": "#5c6778" }
+                    "keyword": { "color": "#002AFFFF" },
+                    "function": { "color": "#DE0DAFFF" },
+                    "string": { "color": "#319175FF" },
+                    "number": { "color": "#C28315FF" },
+                    "comment": { "color": "#4A4A4ACC" },
+                    "type": { "color": "#64009EFF" },
+                    "variable": { "color": "#618BC7FF" },
+                    "operator": { "color": "#6FB337FF" },
+                    "property": { "color": "#020303FF" },
+                    "boolean": { "color": "#5202EBFF" },
+                    "punctuation.bracket": { "color": "#000000FF" },
+                    "tag": { "color": "#C26600FF" }
                 }
             }
         }

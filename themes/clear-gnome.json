@@ -39,7 +39,7 @@
                 "icon.muted": "#5f6368",
                 "icon.disabled": "#3c4043",
                 "icon.placeholder": "#5f6368",
-                "icon.accent": "#FFFFFF",
+                "icon.accent": "#FBBC04FF",
 
                 "element.background": "#35363a",
                 "element.hover": "#2d2e31",
