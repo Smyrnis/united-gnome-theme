@@ -33,13 +33,13 @@
                 "text.muted": "#9AA0A6",
                 "text.placeholder": "#5f6368",
                 "text.disabled": "#3c4043",
-                "text.accent": "#FFFFFF",
+                "text.accent": "#FBBC04",
 
                 "icon": "#E8EAED",
                 "icon.muted": "#5f6368",
                 "icon.disabled": "#3c4043",
                 "icon.placeholder": "#5f6368",
-                "icon.accent": "#FBBC04FF",
+                "icon.accent": "#FBBC04",
 
                 "element.background": "#35363a",
                 "element.hover": "#2d2e31",
