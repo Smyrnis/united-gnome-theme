@@ -171,7 +171,7 @@
                 "syntax": {
                     "keyword": { "color": "#002AFFFF" },
                     "function": { "color": "#DE0DAFFF" },
-                    "string": { "color": "#319175FF" },
+                    "string": { "color": "#4EC41FFF" },
                     "number": { "color": "#C28315FF" },
                     "comment": { "color": "#4A4A4ACC" },
                     "type": { "color": "#64009EFF" },
