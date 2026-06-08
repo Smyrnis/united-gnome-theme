@@ -7,12 +7,14 @@
     Color theme designed to match the popular Ubuntu theme.
 </p>
 
+> [!NOTE]
+> The Threme theme is based on the [Rosé Pine](https://rosepinetheme.com/) color scheme.
+
 <p align="center">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Smyrnis/united-gnome-theme?style=flat-"> 
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/Smyrnis/united-gnome-theme?style=flat-"> 
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/Smyrnis/united-gnome-theme?style=flat-"> 
 </p>
-
 
 
 ## Contributing
